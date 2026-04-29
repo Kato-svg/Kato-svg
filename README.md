@@ -31,9 +31,3 @@ I work with React, TypeScript and JavaScript, and I'm especially interested in b
 - Learning better frontend architecture
 - Practicing team development and pull requests
 
-## Projects
-
-Here are some of the projects I'm currently working on:
-
-- Crypto Atlas — crypto market dashboard built with React and TypeScript
-- SkillSwap — team project for skill exchange
