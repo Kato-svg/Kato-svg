@@ -1,16 +1,41 @@
-## Hi there 👋
+## Hi there :shipit:
 
-<!--
-**Kato-svg/Kato-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Maxim
 
-Here are some ideas to get you started:
+I'm a frontend developer focused on building clean, responsive and practical web interfaces.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I'm studying frontend development at Yandex Practicum and improving my skills through real projects, team development and code reviews.
+
+I work with React, TypeScript and JavaScript, and I'm especially interested in building user-friendly web applications with clear structure and maintainable code.
+
+## About me
+
+- Frontend Developer
+- Studying at Yandex Practicum
+- Building projects with React and TypeScript
+- Interested in clean UI, application architecture and real-world development
+- Outside of coding, I enjoy training at the gym and walking outdoors
+
+## Tech stack
+
+- HTML
+- CSS / SCSS
+- JavaScript
+- TypeScript
+- React
+- Git / GitHub
+- Vite
+
+## Current focus
+
+- Improving React and TypeScript skills
+- Building portfolio projects
+- Learning better frontend architecture
+- Practicing team development and pull requests
+
+## Projects
+
+Here are some of the projects I'm currently working on:
+
+- Crypto Atlas — crypto market dashboard built with React and TypeScript
+- SkillSwap — team project for skill exchange
