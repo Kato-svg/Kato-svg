@@ -1,6 +1,4 @@
-## Hi there :shipit:
-
-# Hi, I'm Maxim
+# Hi, I'm Maxim :shipit:
 
 I'm a frontend developer focused on building clean, responsive and practical web interfaces.
 
