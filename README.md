@@ -12,17 +12,6 @@ I work with React, TypeScript and JavaScript, and I'm especially interested in b
 - Studying at Yandex Practicum
 - Building projects with React and TypeScript
 - Interested in clean UI, application architecture and real-world development
-- Outside of coding, I enjoy training at the gym and walking outdoors
-
-## Tech stack
-
-- HTML
-- CSS / SCSS
-- JavaScript
-- TypeScript
-- React
-- Git / GitHub
-- Vite
 
 ## Current focus
 
